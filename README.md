@@ -8,7 +8,7 @@ This module helps understanding the statistical modeling for time series data an
 - matplotlib
 
 ### Dataset
-In this analysis, a popular dataset from Kaggle is used. You can find it [here](https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data). The dataset consists of average monthly temperature recorded from the year 1943 to 2013.
+In this analysis, a popular dataset from Kaggle is used. You can find it [here](https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data). The dataset consists of average monthly temperature recorded from the year 1943 to 2013 for 243 countries. For the current analysis, the temperature data for "Nepal" is used.
 
 ### Pre-Processing
 - Pandas functionality (i.e., read_csv()) is used to read the data from the csv file. For the current analysis, the temperature data from only after year 1970 is considered. 
