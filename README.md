@@ -1,5 +1,5 @@
-# Time Series Analysis for Temperature Forecasting using ARIMA Model.
-This module helps understanding the statistical modeling for time series data anlaysis.
+## Time Series Analysis for Temperature Forecasting using ARIMA Model.
+This module helps understanding the statistical modeling for time series data anlaysis and forecasting.
 
 ### Required modules
 - pandas
